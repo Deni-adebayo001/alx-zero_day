@@ -11,3 +11,4 @@ git checkout
 git status
 git log
 git merge
+git rebase

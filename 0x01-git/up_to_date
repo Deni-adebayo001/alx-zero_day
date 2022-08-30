@@ -1,0 +1,13 @@
+git init
+git clone https://github.com/deniabimbola001/alx-pre_course.git
+git config --global user.name
+git config --global user.email
+git remote origin https://githum.com/deniabimola/alx
+git commit -m ""
+git push
+git pull
+git branch
+git checkout
+git status
+git log
+git merge
